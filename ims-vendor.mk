@@ -34,7 +34,7 @@ PRODUCT_PACKAGES += \
     mediatek-ims-common \
     mediatek-telecom-common \
     mediatek-telephony-base \
-    mediatek-telephony-common \
+    mediatek-telephony-common
 
 PRODUCT_BOOT_JARS += \
     mediatek-common \
